@@ -17,11 +17,13 @@ ranked from favourite to least favourite:
 - Kotlin
 
 ### Front-End
+- ReactJS
 - VueJS
 
 ### DevOps
-- Azure
+- Azure Pipelines
 - Gitlab CI
+- Github Actions
 - Jenkins
 
 ### Containers
